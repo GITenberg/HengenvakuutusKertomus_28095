@@ -1,0 +1,45 @@
+_repo: HengenvakuutusKertomus_28095
+_version: 0.1.0
+alternative_title: Die Lebensversicherung. Finnish
+contributor:
+  illustrator:
+    agent_name: Ford, H. J. (Henry Justice)
+    alias: Ford, Henry Justice
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '26630'
+    url: http://www.gutenberg.org/2009/agents/26630
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Justice_Ford
+  translator:
+    agent_name: Suppanen, Alma
+    alias: A--a
+    birthdate: 1858
+    deathdate: 1937
+    gutenberg_agent_id: '6629'
+    url: http://www.gutenberg.org/2009/agents/6629
+    wikipedia: http://fi.wikipedia.org/wiki/Alma_Suppanen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoffmann, Franz
+    birthdate: 1814
+    deathdate: 1882
+    gutenberg_agent_id: '31340'
+    url: http://www.gutenberg.org/2009/agents/31340
+description: ''
+gutenberg_issued: '2009-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28095'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcc 'PT'
+title: 'Hengenvakuutus: Kertomus'
+url: http://www.gutenberg.org/ebooks/28095
